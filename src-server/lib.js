@@ -57,7 +57,8 @@ async function launch() {
   const proxy = process.env.ND_PROXY || 'http://127.0.0.1:7897';
   // 服务器默认 xvfb 有头（ND_HEADLESS=0）；设 1 强制无头
   const headless = process.env.ND_HEADLESS === '1';
-  const ctx = await chromium.launchPersistentContext(path.join(ROOT, 'profile_v2'), {
+  // 复用旧管线攒下信任的档案（nd/.pw-profile）；Cookie 另有 nd_cookies.json 注入层做自续期
+  const ctx = await chromium.launchPersistentContext(path.join(ROOT, '.pw-profile'), {
     headless,
     proxy: { server: proxy },
     args: ['--disable-blink-features=AutomationControlled', '--disable-dev-shm-usage', '--no-sandbox'],
