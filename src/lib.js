@@ -67,8 +67,16 @@ async function launch() {
   });
   await ctx.addInitScript(() => {
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+    Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
+    Object.defineProperty(navigator, 'userAgent', { get: () => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' });
     window.chrome = window.chrome || { runtime: {} };
   });
+  // 注入本地导出的 Akamai 信任 Cookie（ND_COOKIES = JSON 数组）
+  const ck = (process.env.ND_COOKIES || '').trim();
+  if (ck) {
+    try { await ctx.addCookies(JSON.parse(ck)); console.log('[cookies] 注入', JSON.parse(ck).length, '条'); }
+    catch (e) { console.log('[cookies] 解析失败', e.message); }
+  }
   return ctx;
 }
 

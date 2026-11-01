@@ -43,8 +43,18 @@ jobs:
         env:
           BARK_KEY: ${{ secrets.BARK_KEY }}
           SUB_URL: ${{ secrets.SUB_URL }}
+          ND_COOKIES: ${{ secrets.ND_COOKIES }}
           ND_PROXY: http://127.0.0.1:7890
           DASH_URL: https://tahanialsalm37-netizen.github.io/nordstrom-taskb/
+
+      - name: Refresh cookies secret
+        if: always()
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          node src/dump_cookies.js
+          python -m pip install --quiet pynacl
+          python scripts/update_cookie_secret.py
 
       - name: Generate panel
         if: always()
