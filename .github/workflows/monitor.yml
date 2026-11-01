@@ -10,13 +10,28 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Setup mihomo + pick proxy node
+        env:
+          SUB_URL: ${{ secrets.SUB_URL }}
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+        run: |
+          python -m pip install --quiet pyyaml
+          URL=$(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest | grep -o '"browser_download_url": *"[^"]*mihomo-linux-amd64-v[0-9.]*\.gz"' | head -1 | sed 's/.*"\(https[^"]*\)"/\1/')
+          echo "mihomo: $URL"
+          curl -sL -o mihomo.gz "$URL" && gunzip -f mihomo.gz && chmod +x mihomo
+          python scripts/select_node.py
 
       - name: Install deps + Chromium
         run: |
@@ -27,6 +42,8 @@ jobs:
         run: node src/run.js
         env:
           BARK_KEY: ${{ secrets.BARK_KEY }}
+          SUB_URL: ${{ secrets.SUB_URL }}
+          ND_PROXY: http://127.0.0.1:7890
           DASH_URL: https://tahanialsalm37-netizen.github.io/nordstrom-taskb/
 
       - name: Generate panel
