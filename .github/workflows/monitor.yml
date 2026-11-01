@@ -1,0 +1,52 @@
+name: taskb-monitor
+on:
+  schedule:
+    - cron: '17 0,4,8,12,16,20 * * *'   # 每4小时（UTC，对应北京 08:17 / 12:17 / 16:17 / 20:17 / 00:17 / 04:17）
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps + Chromium
+        run: |
+          npm install
+          npx playwright install --with-deps chromium
+
+      - name: Run monitor (scrape + full stock sweep + thresholds + bark)
+        run: node src/run.js
+        env:
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          DASH_URL: https://tahanialsalm37-netizen.github.io/nordstrom-taskb/
+
+      - name: Generate panel
+        if: always()
+        run: node src/panel.js
+
+      - name: Commit data back
+        if: always()
+        run: |
+          git config user.name "taskb-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data reports
+          git commit -m "taskb run $(date -u '+%FT%TZ')" || echo "no changes"
+          git push
+
+      - name: Deploy panel to GitHub Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ github.token }}
+          publish_dir: ./reports
+          publish_branch: gh-pages
+          force_orphan: true

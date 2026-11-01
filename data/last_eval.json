@@ -1,0 +1,18 @@
+{
+ "ts": "2026-10-30T12:06:03.034Z",
+ "total": 120,
+ "newCount": 0,
+ "restockCount": 0,
+ "movementCount": 0,
+ "refreshed": 30,
+ "soldoutSizes": 0,
+ "restockSizes": 0,
+ "dropCount": 0,
+ "goneCount": 0,
+ "thresholds": {
+  "newListings": 2,
+  "movement": 2
+ },
+ "hit": false,
+ "reasons": []
+}

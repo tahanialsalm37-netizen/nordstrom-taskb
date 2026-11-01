@@ -1,0 +1,9 @@
+{
+  "newListings": 2,
+  "movement": 2,
+  "group": "任务B",
+  "channels": {
+    "bark": true
+  },
+  "_说明": "newListings=4小时内新上架件数门槛（>1 即 ≥2）；movement=动销件数门槛（>1 即 ≥2，动销=本轮刷新商品尺码库存净减少件数）；任一达标才推 Bark。目录抓 0 件或被 Akamai 拦均单独告警。"
+}

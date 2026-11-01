@@ -1,0 +1,15 @@
+{
+  "name": "nd-worker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "任务B · Nordstrom 私促监控（云端 worker）",
+  "main": "src/scheduler.js",
+  "scripts": {
+    "once": "node src/run.js",
+    "sweep": "node src/sweep.js",
+    "panel": "node src/panel.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

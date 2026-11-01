@@ -1,0 +1,15 @@
+{
+ "ts": "2026-10-30T12:06:03.034Z",
+ "durationSec": 39,
+ "pages": 2,
+ "totalHint": 121,
+ "count": 120,
+ "missed": 1,
+ "newCount": 0,
+ "dropCount": 0,
+ "lowStockCount": 0,
+ "goneCount": 0,
+ "newItems": [],
+ "drops": [],
+ "lowStockNew": []
+}
