@@ -6,7 +6,7 @@ const path = require('path');
 const { spawnSync } = require('child_process');
 
 const ROOT = path.resolve(__dirname, '..');          // nd/
-const V2 = path.join(__dirname, 'scripts_v2');       // nd/scripts_v2/
+const V2 = path.join(__dirname, '..', 'scripts_v2'); // 入口在 nd/scripts/，实现在 nd/scripts_v2/
 
 try { fs.writeFileSync(path.join(ROOT, 'data', 'last_run.txt'), new Date().toISOString()); } catch (e) {}
 
