@@ -1,11 +1,115 @@
 {
- "ts": "2026-11-01T21:25:13.385Z",
- "blocked": true,
- "count": 0,
- "totalHint": null,
- "newCount": 0,
- "dropCount": 0,
- "lowStockCount": 0,
- "goneCount": 0,
- "newItems": []
+ "ts": "2026-11-01T21:32:06.235Z",
+ "durationSec": 23,
+ "pages": 2,
+ "totalHint": 123,
+ "count": 121,
+ "missed": 2,
+ "newCount": 6,
+ "dropCount": 1,
+ "lowStockCount": 1,
+ "goneCount": 5,
+ "newItems": [
+  {
+   "id": "8843242",
+   "url": "https://www.nordstrom.com/s/beachwear-monogram-print-long-sleeve-cotton-silk-voile-shirtdress/8843242",
+   "img": "https://n.nordstrommedia.com/it/bfdf3038-cc46-46e8-a85f-79ae980b8772.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Beachwear Monogram Print Long Sleeve Cotton & Silk Voile Shirtdress",
+   "price": 275,
+   "prevPrice": 550,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  },
+  {
+   "id": "8843269",
+   "url": "https://www.nordstrom.com/s/badia-double-breasted-double-face-jersey-blazer/8843269",
+   "img": "https://n.nordstrommedia.com/it/3116e1ca-4734-40b5-8f6d-9380160e7d3d.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Badia Double Breasted Double Face Jersey Blazer",
+   "price": 347.5,
+   "prevPrice": 695,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  },
+  {
+   "id": "8843295",
+   "url": "https://www.nordstrom.com/s/print-silk-twill-maxi-dress/8843295",
+   "img": "https://n.nordstrommedia.com/it/9b341c57-1c39-4cd2-baaa-be48d155c967.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Print Silk Twill Maxi Dress",
+   "price": 1045,
+   "prevPrice": 2090,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": false
+  },
+  {
+   "id": "8843302",
+   "url": "https://www.nordstrom.com/s/fervore-linen-sweater/8843302",
+   "img": "https://n.nordstrommedia.com/it/a96ad152-fed5-4f99-91f7-2c3a0610ac4e.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Fervore Linen Sweater",
+   "price": 382.5,
+   "prevPrice": 765,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  },
+  {
+   "id": "8843316",
+   "url": "https://www.nordstrom.com/s/grazia-fringe-sweater-dress/8843316",
+   "img": "https://n.nordstrommedia.com/it/148dfe1f-a1ea-4896-9c36-4b40e9412bb4.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Grazia Fringe Sweater Dress",
+   "price": 620,
+   "prevPrice": 1240,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  },
+  {
+   "id": "8843308",
+   "url": "https://www.nordstrom.com/s/teresa-print-cotton-midi-dress/8843308",
+   "img": "https://n.nordstrommedia.com/it/d4ca9388-1321-4a0b-acac-82f4f3e1a8c9.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Teresa Print Cotton Midi Dress",
+   "price": 525,
+   "prevPrice": 1050,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  }
+ ],
+ "drops": [
+  {
+   "id": "8843294",
+   "url": "https://www.nordstrom.com/s/okra-crop-stretch-cotton-straight-leg-pants/8843294",
+   "img": "https://n.nordstrommedia.com/it/3b39f46c-79a3-470e-9889-1bc84dfb651c.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Okra Crop Stretch Cotton Straight Leg Pants",
+   "price": 312.5,
+   "prevPrice": 625,
+   "discount": 50,
+   "newMarkdown": true,
+   "lowStock": false,
+   "from": 437.5
+  }
+ ],
+ "lowStockNew": [
+  {
+   "id": "8622806",
+   "url": "https://www.nordstrom.com/s/secolo-pleated-wool-blend-seersucker-pants/8622806",
+   "img": "https://n.nordstrommedia.com/it/9fd7cc67-5567-4f9b-bf44-6470950944f9.jpeg?h=368&w=240&dpr=2",
+   "brand": "Max Mara",
+   "name": "Secolo Pleated Wool Blend Seersucker Pants",
+   "price": 397.5,
+   "prevPrice": 795,
+   "discount": 50,
+   "newMarkdown": false,
+   "lowStock": true
+  }
+ ]
 }

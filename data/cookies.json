@@ -1,0 +1,472 @@
+[
+ {
+  "name": "experiments",
+  "value": "ExperimentId=b0b68318-2dff-41a9-9f67-a2e54eea5864",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827169954.08595,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "audience",
+  "value": "audiences=&targetAudiences=",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1826824353.086102,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "internationalshippref",
+  "value": "preferredcountry=US&preferredcurrency=USD&preferredcountryname=United%20States",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129260.726174,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "no-track",
+  "value": "ccpa=false",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129260.727529,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "nordstrom",
+  "value": "bagcount=0&firstname=&ispinned=False&isSocial=False&shopperattr=||0|False|-1&shopperid=3c0dc06570c7417ea2498e7e0d99a659&USERNAME=",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129262.152703,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "nui",
+  "value": "firstVisit=2026-10-21T19%3A12%3A32.605Z&geoLocation=&isModified=false&lme=false",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129260.727855,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_gcl_au",
+  "value": "1.1.1306182586.1792609957",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1800385957,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "n.com_shopperId",
+  "value": "null",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1796161260,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "storemode",
+  "value": "version=5&postalCode=90011&selectedStoreIds=349&sddSelectedStoreIds=345&storesById=349%3ANordstrom%20The%20Grove&localMarketId=LA&localMarketsById=LA%3Aundefined",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129261.00148,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ga",
+  "value": "GA1.1.1446042011.1792609959",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129261.276256,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_r",
+  "value": "_",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1824145959,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_lu",
+  "value": "https://www.nordstrom.com/browse/designer-private-sale",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1824145959,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_did",
+  "value": "pscrb_d8c5ae99-e4e2-4266-9586-7584d96508b3",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1824145959,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_fva",
+  "value": "1792609959168",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1824145959,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "_tt_enable_cookie",
+  "value": "1",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265261,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ttp",
+  "value": "01M5FY2FSGKFJW64CPSD3G981F_.tt.1.1792609959729",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265261,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_fbp",
+  "value": "fb.1.1792609959825.659054102654554044",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1801345261,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "FPID",
+  "value": "FPID2.2.WAYk%2FRBToww%2Bcu9LFXfddQBOq9wMl57qVUE3OU0EOh4%3D.1792609959",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129262.435284,
+  "httpOnly": true,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "FPAU",
+  "value": "1.1.1306182586.1792609957",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1800385957.641129,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "uet_vid",
+  "value": "083bcb6ad7cf41c3b0f6a15fe13b339f",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265261.885636,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_pin_unauth",
+  "value": "dWlkPVpEbG1ObVk1WkdVdFpUTmtNQzAwTkdZd0xUZ3lNVE10TWpZeE1EbG1OamsyWm1RMw",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105261,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "QuantumMetricUserID",
+  "value": "88f3e16fcfacbea3e45943892af01cb0",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105260,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "kampyle_userid",
+  "value": "1ed5-34cb-c0c4-148b-edb5-1c79-22b7-01e8",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1824145971,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "FPLC",
+  "value": "4dr0bUsUwjAlq3SGCBYoFetQn%2BjKHO9tMo9TSE%2FtAjsv5t4IdUWaw0TnzqzplZWl%2BX739LlY37phbpVe0hkDEvwV8%2BaOGxmwsHYQQEh75L9QIsOLnckWtRGsTd6gGQ%3D%3D",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793587741.885985,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "rfx-forex-rate",
+  "value": "currencyCode=USD&exchangeRate=1&quoteId=0",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793572305.02012,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "storeeligiblepromise",
+  "value": "eligiblePromises=SHIP_TO_STORE%7CNEXT_DAY_DELIVERY%7CSAME_DAY_PICKUP%7CSAME_DAY_COURIER",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793572861,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "__ps_sr",
+  "value": "_",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793571061,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_slu",
+  "value": "https://www.nordstrom.com/browse/designer-private-sale",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793571061,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "QuantumMetricSessionID",
+  "value": "a690f66abd484b1ab3c6fe474a88172e",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793571060,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "Bd34bsY56",
+  "value": "A2bhDpmhAQAANd_U8zujj0oDIxT_8KmjYIkGbsVLMwDheCowUwVPNxFvlmJHAazrKQqucuopwH8AAEB3AAAAAA==",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1825126204.011421,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "Tld-kampyleUserSession",
+  "value": "1793569258776",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105258,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "Tld-kampyleUserSessionsCount",
+  "value": "350",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105258,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "Tld-kampyleUserPercentile",
+  "value": "46.41593613693872",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105258,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "Tld-kampyleSessionPageCounter",
+  "value": "1",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105258,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "shoppertoken",
+  "value": "shopperToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5vcmRzdHJvbS1ndWVzdC1hdXRoIn0.eyJzdWIiOiIzYzBkYzA2NTcwYzc0MTdlYTI0OThlN2UwZDk5YTY1OSIsImF1ZCI6Imd1ZXN0IiwiaXNzIjoibm9yZHN0cm9tLWd1ZXN0LWF1dGgiLCJleHAiOjIxMDkxODg0NTksInJlZnJlc2giOjE3OTM1ODM2NTksImp0aSI6Ijg0ZDkzMWQxLTY5NjctNDhjOC1hYmJiLTI5MjQ3MzVmOGQxOCIsImlhdCI6MTc5MzU2OTI1OX0.avOdsa-iuiR8g8z9tjWYTljLEMa40iT2U133xpKFmDv7M_7p7kAaqOR1ONJN-Ix9olWULo9X8U8sZ-7BOvz1HKyj7Kkqv0Wj8IQDv1TGW_BVKowjzk2gzJw1XOhc6eH4k6JpSkWMZh56mFSLEZYwrqM1CflIEa1CNjDpjZ3JhVUYL6Idhi3y-bPRMJZEmz2yZYrDUinw4zlEi8LKu96lz4tWJ5umXQlyrf8f01C7I4Hkui6bBdFFO2IF4pVZZlYCK8sI6zsZ60YDqWzNpOe9s8fP_ri1-0K4VuMLiTYI6fT5hDsSMTs7pthclo-cciNgJlSGRqgrLQ1m7kR_yRK37BbKXvoctFBIlDBCZbXM6l1vFqhzSlnYCeyesIfW7T84fuEVGp8tpt2RzQ7qObDyiyFY9HBgxBUg8tNKPZJRWLQlWx9U83FzmRQkdaT18qGtjV-t_AdR84RHrwKZkd-ebY5wft9ZLJ7iEdTEBU3m-5-jRKaFdoGjqv-AujnpUWHdIgFt2wlQ88CKFbd1HRTj9EJdNceMwoFAbfhwi6X5onitwAd86IyifEDJ4vQvIQuhcw0t4ZHlaO_aCawUpqLfqZOOoy-vjmVCNAPHme5GiqwF1xmiifS02UOIRQDKhMH4r1wMRBD9DCAQE2Gmf3Lri71-RiqKlmfIRY8moTlvJ0o",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129260.728405,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "pageviewCount",
+  "value": "123",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793571060,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_uetsid",
+  "value": "c5d25260d45511f1915009413e012de3",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793655660,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_uetvid",
+  "value": "62e00d80cd8311f1aae0dbf521b43575",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265260,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "storeprefs",
+  "value": "90011|100|||2026-11-01T21:41:01.002Z",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828129261.002155,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "IR_PI",
+  "value": "61dd787f-cd83-11f1-9bfd-abf0aeffe885%7C1793655661328",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825105261,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "apt_pixel",
+  "value": "eyJkZXZpY2VJZCI6IjI0ZjQ0NTg3LTg0ODMtNDdkZS05NTg2LTkzMTgyZTY2NzE1OSIsInVzZXJJZCI6IiIsImV2ZW50SWQiOjE0NDUsImxhc3RFdmVudFRpbWUiOjE3OTM1NjkyNjE4Nzd9",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1825105261,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ga_FFQMSLD0QC",
+  "value": "GS2.1.s1793568730$o22$g1$t1793569262$j10$l0$h1629906254",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129262.21279,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ga_11111111",
+  "value": "GS2.1.s1793568731$o22$g1$t1793569262$j17$l0$h1441023323",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129262.229976,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "Ad34bsY56",
+  "value": "4QSbpXvYgx67MkojtRX0AQ4RvQO5wO4nvdIxbh6IjQyYRe5B5caJyRaaHALEk8M74O4pok8PsxIJvTLQ4fN7yMDk6X5ziS3m61-Y926RJouRvzYDaMdgnO1T5LDmDsIzGyGayBAAUJIZLj0_ch6ixz2vBXjOWDaVhg1_3xBsS65f7VxcCiyIAbouJnKACVhz2VC8Ad6L14l3TL39ZQhQTycJFLiMBCI06PCzoVxNUBdnKegKlY_DGFONhPC8IpP3lP9-BMRvN3wsfFwtVvt3Myzcmev-JWeUOypKmg7wY5sIGBr1cAvurCXlxRNGRgyQ-dWJznnv1Si097RG4zm5wwVri9T5fr91NphQGmNjmlFiSHgdcfP4VALSzYuMO71TZSvnJLaR0W6XBa83E9l6hI4OO5P9rZagO38ikD3vmH9HxGBOsGylvneojJkH9uGusOVVLCmq|3d9dfc80079b5232a749b75ab2d012588469e09d",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129262.359609,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "ttcsid",
+  "value": "1793568732222::aVgyVC8VEXo_MgkKKPai.21.1793569262363.0::1.526792.529641::0.0.0.0::0.0.0",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265262,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "ttcsid_C4A46SJV29O9OKB2G7A0",
+  "value": "1793568732222::uLEpHTyVOPDXSacDA3_B.21.1793569262363.1",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827265262,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "forterToken",
+  "value": "1ddaa8708fe04997be8abb5427591b83_1793569260636__UDF43-m4_32ck_",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828129262,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ }
+]
