@@ -58,7 +58,9 @@ jobs:
 
       - name: Generate panel
         if: always()
-        run: node src/panel.js
+        run: |
+          node src/panel.js
+          cp reports/panel.html reports/index.html
 
       - name: Commit data back
         if: always()
