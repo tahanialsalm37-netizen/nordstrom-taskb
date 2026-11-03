@@ -1,14 +1,14 @@
 {
- "ts": "2026-11-03T02:19:04.385Z",
- "total": 123,
- "newCount": 1,
+ "ts": "2026-11-03T11:56:17.393Z",
+ "total": 121,
+ "newCount": 0,
  "restockCount": 1,
  "movementCount": 0,
- "refreshed": 74,
+ "refreshed": 112,
  "soldoutSizes": 0,
  "restockSizes": 0,
  "dropCount": 0,
- "goneCount": 2,
+ "goneCount": 3,
  "thresholds": {
   "newListings": 2,
   "movement": 2
