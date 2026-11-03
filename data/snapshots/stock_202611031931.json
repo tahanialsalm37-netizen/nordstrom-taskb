@@ -1,0 +1,1853 @@
+{
+ "ts": "2026-11-03T19:31:04.767Z",
+ "stock": {
+  "8470053": {
+   "ts": "2026-10-30T17:05:12.184Z",
+   "sizes": {
+    "7": 0,
+    "8": 0,
+    "9": 0,
+    "10": 0,
+    "11": 1,
+    "12": 0,
+    "13": 0
+   },
+   "name": "Next Ankle Boot",
+   "brand": "Gucci"
+  },
+  "8560503": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "35": 1,
+    "36": 6,
+    "37": 7,
+    "38": 7,
+    "39": 6,
+    "40": 1,
+    "41": 3,
+    "42": 2
+   },
+   "name": "Soft Plain Toe Derby",
+   "brand": "Common Projects"
+  },
+  "8560521": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "35": 0,
+    "36": 2,
+    "37": 1,
+    "38": 5,
+    "39": 7,
+    "40": 8,
+    "41": 5,
+    "42": 0
+   },
+   "name": "Soft Penny Loafer",
+   "brand": "Common Projects"
+  },
+  "8560523": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "35": 0,
+    "36": 0,
+    "37": 4,
+    "38": 1,
+    "39": 1,
+    "40": 5,
+    "41": 0,
+    "42": 1
+   },
+   "name": "Soft Penny Loafer",
+   "brand": "Common Projects"
+  },
+  "8560540": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "35": 3,
+    "36": 6,
+    "37": 10,
+    "38": 11,
+    "39": 9,
+    "40": 4,
+    "41": 5,
+    "42": 1
+   },
+   "name": "Soft Plain Toe Derby",
+   "brand": "Common Projects"
+  },
+  "8560542": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "35": 2,
+    "36": 1,
+    "37": 0,
+    "38": 0,
+    "39": 0,
+    "40": 0,
+    "41": 0,
+    "42": 0
+   },
+   "name": "Driving Shoe Sneaker",
+   "brand": "Common Projects"
+  },
+  "8622747": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "XX-Large": 0,
+    "Medium": 0,
+    "Small": 0,
+    "X-Small": 0,
+    "Large": 1,
+    "X-Large": 0
+   },
+   "name": "Albero Virgin Wool Rib Polo Sweater",
+   "brand": "Max Mara"
+  },
+  "8622752": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 1,
+    "Large": 2,
+    "X-Large": 0,
+    "Medium": 0,
+    "Small": 0
+   },
+   "name": "Fareta Two-Piece Sweater Set",
+   "brand": "Max Mara"
+  },
+  "8622754": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 3,
+    "X-Large": 0,
+    "Medium": 1,
+    "X-Small": 0,
+    "Large": 2
+   },
+   "name": "Baffo Diamond Stitch Cashmere Crewneck Sweater",
+   "brand": "Max Mara"
+  },
+  "8622758": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 2,
+    "4": 0,
+    "6": 1,
+    "8": 3,
+    "10": 3,
+    "12": 4,
+    "14": 2,
+    "16": 1
+   },
+   "name": "Attina Jersey Trousers",
+   "brand": "Max Mara"
+  },
+  "8622759": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 2,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 1,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Bisso Plaid Cotton & Wool Double Breasted Blazer",
+   "brand": "Max Mara"
+  },
+  "8622761": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 5,
+    "Small": 11,
+    "XX-Large": 0,
+    "X-Large": 0,
+    "Medium": 13,
+    "X-Small": 1
+   },
+   "name": "Madatti Crystal Embellished Two-Piece Sweater Dress",
+   "brand": "Max Mara"
+  },
+  "8622763": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 2,
+    "XX-Large": 0,
+    "X-Large": 0,
+    "X-Small": 2,
+    "Small": 1,
+    "Large": 2
+   },
+   "name": "Albero Virgin Wool Blend Rib Polo Sweater",
+   "brand": "Max Mara"
+  },
+  "8622764": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "Medium": 1,
+    "X-Large": 1,
+    "Large": 1,
+    "Small": 0
+   },
+   "name": "Long Sleeve Jersey Dress",
+   "brand": "Max Mara"
+  },
+  "8622765": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 1,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Ricetta Double Breasted Wool Knit Blazer",
+   "brand": "Max Mara"
+  },
+  "8622766": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Fuggito Alpaca, Virgin Wool & Silk Blend Teddy Coat",
+   "brand": "Max Mara"
+  },
+  "8622767": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Utilita Virgin Wool Blazer",
+   "brand": "Max Mara"
+  },
+  "8622773": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Ambuto Print Sleeveless Fit & Flare Dress",
+   "brand": "Max Mara"
+  },
+  "8622775": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 1,
+    "4": 4,
+    "6": 6,
+    "8": 5,
+    "10": 0,
+    "12": 0,
+    "14": 2,
+    "16": 1
+   },
+   "name": "Ambra Denim Dress",
+   "brand": "Max Mara"
+  },
+  "8622776": {
+   "ts": "2026-11-01T21:32:06.614Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 0,
+    "12": 0
+   },
+   "name": "Elisa Belted Wool Double Face Coat",
+   "brand": "Max Mara"
+  },
+  "8622777": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 3,
+    "12": 2,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Abilita Fringed Camel Hair Belted Cape Jacket",
+   "brand": "Max Mara"
+  },
+  "8622778": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 2,
+    "4": 4,
+    "6": 4,
+    "8": 7,
+    "10": 2,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Unghia Silk Camisole",
+   "brand": "Max Mara"
+  },
+  "8622779": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 1,
+    "6": 0,
+    "8": 3,
+    "10": 4,
+    "12": 4,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Disco Monogram Paisley Pajama Shirt",
+   "brand": "Max Mara"
+  },
+  "8622780": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 2,
+    "6": 3,
+    "8": 3,
+    "10": 3,
+    "12": 0,
+    "14": 1,
+    "16": 1
+   },
+   "name": "Genero High Waist Wide Leg Silk Pants",
+   "brand": "Max Mara"
+  },
+  "8622784": {
+   "ts": "2026-11-02T18:22:44.750Z",
+   "sizes": {
+    "X-Small": 0,
+    "Large": 0,
+    "Medium": 0,
+    "Small": 1
+   },
+   "name": "Tedgirl Oversize Double Breasted Alpaca Blend Coat",
+   "brand": "Max Mara"
+  },
+  "8622785": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "Medium": 0,
+    "X-Large": 0,
+    "Large": 1,
+    "Small": 5,
+    "XX-Large": 0
+   },
+   "name": "Ragno Sequin Embellished Virgin Wool Cardigan",
+   "brand": "Max Mara"
+  },
+  "8622786": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 1,
+    "X-Large": 0,
+    "Small": 3,
+    "X-Small": 0,
+    "Medium": 5
+   },
+   "name": "Pavetta Stripe Short Sleeve Cashmere & Silk Sweater",
+   "brand": "Max Mara"
+  },
+  "8622788": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 2,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 2,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Disco Monogram Paisley Pajama Shirt",
+   "brand": "Max Mara"
+  },
+  "8622789": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 1,
+    "6": 1,
+    "8": 2,
+    "10": 2,
+    "12": 4,
+    "14": 2,
+    "16": 1
+   },
+   "name": "Michelle Check Wool & Cotton Wide Leg Ankle Pants",
+   "brand": "Max Mara"
+  },
+  "8622790": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 2,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Edile Cashmere Double Face Wrap Coat",
+   "brand": "Max Mara"
+  },
+  "8622792": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "XX-Large": 0,
+    "X-Large": 1,
+    "Medium": 0,
+    "Large": 3,
+    "X-Small": 0,
+    "Small": 0
+   },
+   "name": "Tequila Wool Blend Quarter Zip Sweater",
+   "brand": "Max Mara"
+  },
+  "8622793": {
+   "ts": "2026-11-02T18:22:44.750Z",
+   "sizes": {
+    "Medium": 1,
+    "X-Small": 0,
+    "XX-Large": 0,
+    "Large": 0,
+    "Small": 0,
+    "X-Large": 0
+   },
+   "name": "Wool Blend Cardigan",
+   "brand": "Max Mara"
+  },
+  "8622794": {
+   "ts": "2026-10-30T17:05:12.184Z",
+   "sizes": {
+    "Medium": 1,
+    "Small": 0,
+    "X-Small": 0,
+    "X-Large": 0,
+    "Large": 1
+   },
+   "name": "Sospiro Faux Leather Pants",
+   "brand": "Max Mara"
+  },
+  "8622798": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 2,
+    "4": 3,
+    "6": 0,
+    "8": 1,
+    "10": 1,
+    "12": 1,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Silk Crêpe de Chine Button-Up Shirt",
+   "brand": "Max Mara"
+  },
+  "8622801": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 3,
+    "10": 0,
+    "12": 1,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Argenta Drawstring Virgin Wool Ankle Pants",
+   "brand": "Max Mara"
+  },
+  "8622804": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 2,
+    "6": 0,
+    "8": 2,
+    "10": 2,
+    "12": 5,
+    "14": 7,
+    "16": 1
+   },
+   "name": "Emily Wool Twill Five-Pocket Pants",
+   "brand": "Max Mara"
+  },
+  "8622805": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 0,
+    "8": 1,
+    "10": 2,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Otre Stretch Wool Midi Skirt",
+   "brand": "Max Mara"
+  },
+  "8622806": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 2,
+    "14": 0,
+    "16": 1
+   },
+   "name": "Secolo Pleated Wool Blend Seersucker Pants",
+   "brand": "Max Mara"
+  },
+  "8622808": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 10,
+    "Large": 6,
+    "Medium": 7,
+    "X-Small": 0,
+    "X-Large": 0
+   },
+   "name": "Fresia Elbow Patch Wool & Cashmere Crewneck Sweater",
+   "brand": "Max Mara"
+  },
+  "8622811": {
+   "ts": "2026-10-30T17:17:36.802Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 1
+   },
+   "name": "Luna Virgin Wool Wrap Coat",
+   "brand": "Max Mara"
+  },
+  "8622812": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Shock Embroidered Long Sleeve Button-Up Shirt",
+   "brand": "Max Mara"
+  },
+  "8622814": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 1,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Magia Wool Jacket",
+   "brand": "Max Mara"
+  },
+  "8622815": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 5,
+    "Medium": 3,
+    "Small": 8,
+    "X-Small": 0,
+    "X-Large": 0
+   },
+   "name": "Frisia Wool Polo Sweater",
+   "brand": "Max Mara"
+  },
+  "8622816": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 2,
+    "4": 0,
+    "6": 6,
+    "8": 3,
+    "10": 5,
+    "12": 2,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Nadia Check Wool & Cotton Jacket",
+   "brand": "Max Mara"
+  },
+  "8622817": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 0,
+    "12": 0,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Chiara Crop Wide Leg Jeans",
+   "brand": "Max Mara"
+  },
+  "8622818": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 1,
+    "6": 0,
+    "8": 1,
+    "10": 1,
+    "12": 1,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Paisley Monogram Silk Wide Leg Pants",
+   "brand": "Max Mara"
+  },
+  "8622823": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 1,
+    "8": 1,
+    "10": 1,
+    "12": 1,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Adele Button-Up Shirt",
+   "brand": "Max Mara"
+  },
+  "8622825": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 6,
+    "6": 7,
+    "8": 3,
+    "10": 3,
+    "12": 1,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Girone Wool, Mohair & Silk Wide Leg Pants",
+   "brand": "Max Mara"
+  },
+  "8622826": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 9,
+    "X-Large": 2,
+    "X-Small": 0,
+    "Large": 4,
+    "XX-Large": 0,
+    "Medium": 4
+   },
+   "name": "Mastro Crystal Embellished Wool Blend Cardigan",
+   "brand": "Max Mara"
+  },
+  "8622827": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 1,
+    "8": 2,
+    "10": 1,
+    "12": 0,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Dentice Stretch Cotton Twill Pants",
+   "brand": "Max Mara"
+  },
+  "8622828": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Large": 0,
+    "Small": 0,
+    "Medium": 6,
+    "Large": 2,
+    "X-Small": 0
+   },
+   "name": "Miele Chunky Wool & Cashmere Cable Knit Sweater",
+   "brand": "Max Mara"
+  },
+  "8622829": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 2,
+    "6": 1,
+    "8": 0,
+    "10": 1,
+    "12": 0,
+    "14": 3
+   },
+   "name": "Stripe Cotton Button-Up Shirt",
+   "brand": "Max Mara"
+  },
+  "8622830": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "X-Large": 0,
+    "Medium": 0,
+    "Large": 1,
+    "X-Small": 0
+   },
+   "name": "Nebbie Wool & Cashmere Sweater",
+   "brand": "Max Mara"
+  },
+  "8622832": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Fado Silk Button-Up Shirt",
+   "brand": "Max Mara"
+  },
+  "8622833": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 1,
+    "6": 2,
+    "8": 2,
+    "10": 0,
+    "12": 0,
+    "14": 3,
+    "16": 1
+   },
+   "name": "Amelia Long Sleeve Stretch Cotton Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8622844": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 1,
+    "8": 4,
+    "10": 5,
+    "12": 0,
+    "14": 1,
+    "16": 2
+   },
+   "name": "Water Repellent Belted Cotton Blend Trench Coat",
+   "brand": "Max Mara"
+  },
+  "8622871": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 2,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Camille Sleeveless Hooded Puffer Coat",
+   "brand": "Max Mara"
+  },
+  "8843229": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 1,
+    "8": 0,
+    "10": 0,
+    "12": 1
+   },
+   "name": "Beachwear Wide Leg Pull-On Pants",
+   "brand": "Max Mara"
+  },
+  "8843230": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 1,
+    "8": 0,
+    "10": 1,
+    "12": 0
+   },
+   "name": "Cotton Blend Stretch Poplin Sundress",
+   "brand": "Max Mara"
+  },
+  "8843242": {
+   "ts": "2026-11-03T11:56:17.912Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 0
+   },
+   "name": "Beachwear Monogram Print Long Sleeve Cotton & Silk Voile Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8843243": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 1,
+    "8": 0,
+    "10": 0,
+    "12": 2,
+    "14": 1,
+    "16": 1
+   },
+   "name": "Pagai Tweed Zip Jacket",
+   "brand": "Max Mara"
+  },
+  "8843246": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Large": 0,
+    "Medium": 0,
+    "Small": 0,
+    "X-Small": 0,
+    "Large": 1
+   },
+   "name": "Pure Master Sweater",
+   "brand": "Max Mara"
+  },
+  "8843247": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 2,
+    "4": 5,
+    "6": 4,
+    "8": 3,
+    "10": 7,
+    "12": 0,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Berlina Jacquard Cotton & Silk Midi Skirt",
+   "brand": "Max Mara"
+  },
+  "8843248": {
+   "ts": "2026-11-03T11:56:17.912Z",
+   "sizes": {
+    "X-Small": 1,
+    "X-Large": 0,
+    "Medium": 0,
+    "Small": 1,
+    "Large": 0
+   },
+   "name": "Pepli V-Back Scuba Knit Jersey Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843249": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Large": 1,
+    "Small": 0,
+    "Large": 2,
+    "Medium": 2,
+    "X-Small": 0
+   },
+   "name": "Pure Bello Rib Kick Flare Pants",
+   "brand": "Max Mara"
+  },
+  "8843250": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 2,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Bautta Cotton Stretch Twill Cargo Ankle Pants",
+   "brand": "Max Mara"
+  },
+  "8843252": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "One Size": 14
+   },
+   "name": "Beachwear Foam Geo Print Silk Scarf",
+   "brand": "Max Mara"
+  },
+  "8843253": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "One Size": 15
+   },
+   "name": "Beachwear Foam Leaf Print Silk Scarf",
+   "brand": "Max Mara"
+  },
+  "8843254": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Large": 0,
+    "X-Small": 1,
+    "Large": 0,
+    "Small": 0,
+    "Medium": 1
+   },
+   "name": "Pure Aderire Rib Tunic Top",
+   "brand": "Max Mara"
+  },
+  "8843255": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small/Medium": 1,
+    "Medium/Large": 0
+   },
+   "name": "Lancia Print Silk Dress",
+   "brand": "Max Mara"
+  },
+  "8843258": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 1,
+    "6": 1,
+    "8": 2,
+    "10": 2,
+    "12": 1,
+    "14": 2,
+    "16": 0
+   },
+   "name": "Ottano Crop Short Sleeve Cotton Stretch Twill Jacket",
+   "brand": "Max Mara"
+  },
+  "8843259": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 1,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Paggi Asymmetrical Stretch Sateen Midi Skirt",
+   "brand": "Max Mara"
+  },
+  "8843260": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 2,
+    "6": 1,
+    "8": 0,
+    "10": 0,
+    "12": 0
+   },
+   "name": "Changio Beachwear Floral Silk Midi Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8843262": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 2,
+    "8": 0,
+    "10": 2,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Lampara Geo Print Jersey Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843263": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "Large": 4,
+    "Medium": 0,
+    "X-Large": 1,
+    "X-Small": 2
+   },
+   "name": "Talamo Cable Knit Linen Sweater",
+   "brand": "Max Mara"
+  },
+  "8843264": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 7,
+    "Large": 4,
+    "X-Large": 0,
+    "X-Small": 4,
+    "Small": 4
+   },
+   "name": "Oro Linen Sweater",
+   "brand": "Max Mara"
+  },
+  "8843265": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 3,
+    "4": 3,
+    "6": 5,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Print Silk Twill Maxi Dress",
+   "brand": "Max Mara"
+  },
+  "8843267": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 0,
+    "X-Small": 1,
+    "X-Large": 0,
+    "Medium": 2,
+    "Small": 3
+   },
+   "name": "Spadino Graphic T-Shirt",
+   "brand": "Max Mara"
+  },
+  "8843268": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 1,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Anika Sleeveless Top",
+   "brand": "Max Mara"
+  },
+  "8843269": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "X-Small": 0,
+    "Medium": 0,
+    "Large": 2,
+    "X-Large": 0
+   },
+   "name": "Badia Double Breasted Double Face Jersey Blazer",
+   "brand": "Max Mara"
+  },
+  "8843270": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 2,
+    "12": 1
+   },
+   "name": "Beachwear Logo Print Cotton & Silk Maxi Sundress",
+   "brand": "Max Mara"
+  },
+  "8843271": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 2,
+    "8": 1,
+    "10": 1,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Adorn Cotton Pullover Shirt",
+   "brand": "Max Mara"
+  },
+  "8843273": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 2,
+    "2": 0,
+    "4": 2,
+    "6": 1,
+    "8": 4,
+    "10": 0,
+    "12": 0,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Okra Crop Straight Leg Pants",
+   "brand": "Max Mara"
+  },
+  "8843274": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 0,
+    "Small": 0,
+    "X-Small": 1,
+    "X-Large": 0,
+    "Large": 0
+   },
+   "name": "Garza Openwork Fringe Sweater",
+   "brand": "Max Mara"
+  },
+  "8843278": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 2,
+    "6": 1,
+    "8": 3,
+    "10": 2,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Zannata Belted Matte Satin Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843279": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 2,
+    "10": 1,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Fringe Stretch Linen & Cotton Basket Weave A-Line Skirt",
+   "brand": "Max Mara"
+  },
+  "8843280": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 1,
+    "10": 0,
+    "12": 2,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Bambola Cotton Blend Twill Trench Jacket",
+   "brand": "Max Mara"
+  },
+  "8843281": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 1,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Argento Drawstring Crop Wide Leg Cotton Trousers",
+   "brand": "Max Mara"
+  },
+  "8843282": {
+   "ts": "2026-11-02T06:01:18.114Z",
+   "sizes": {
+    "Large": 0,
+    "X-Large": 0,
+    "Medium": 0,
+    "X-Small": 0,
+    "Small": 1
+   },
+   "name": "Saggina Double Face Jersey Polo Dress",
+   "brand": "Max Mara"
+  },
+  "8843283": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 1,
+    "8": 2,
+    "10": 1,
+    "12": 1,
+    "14": 1,
+    "16": 1
+   },
+   "name": "Alibi Floral Canvas Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843284": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 4,
+    "8": 1,
+    "10": 0,
+    "12": 0,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Mito Tweed Sheath Dress",
+   "brand": "Max Mara"
+  },
+  "8843287": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "X-Large": 0,
+    "Small": 2,
+    "Medium": 2,
+    "Large": 7
+   },
+   "name": "Giolino Linen Sweater",
+   "brand": "Max Mara"
+  },
+  "8843288": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 1,
+    "6": 2,
+    "8": 8,
+    "10": 8,
+    "12": 3,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Onorata Wide Leg Jeans",
+   "brand": "Max Mara"
+  },
+  "8843292": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 3,
+    "10": 3,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Mirto Oversize Belted Cotton Poplin Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8843293": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 0,
+    "4": 2,
+    "6": 5,
+    "8": 10,
+    "10": 9,
+    "12": 4,
+    "14": 0,
+    "16": 1
+   },
+   "name": "Bella Cotton Poplin Halter Dress",
+   "brand": "Max Mara"
+  },
+  "8843294": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 2,
+    "4": 0,
+    "6": 2,
+    "8": 2,
+    "10": 1,
+    "12": 0,
+    "14": 1,
+    "16": 1
+   },
+   "name": "Okra Crop Stretch Cotton Straight Leg Pants",
+   "brand": "Max Mara"
+  },
+  "8843295": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 2,
+    "8": 1,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Print Silk Twill Maxi Dress",
+   "brand": "Max Mara"
+  },
+  "8843296": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Brava Back Tie Poplin Peplum Top",
+   "brand": "Max Mara"
+  },
+  "8843297": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 3,
+    "6": 3,
+    "8": 6,
+    "10": 1,
+    "12": 3,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Aquile Canvas Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843300": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 3,
+    "4": 9,
+    "6": 6,
+    "8": 12,
+    "10": 4,
+    "12": 3,
+    "14": 0,
+    "16": 1
+   },
+   "name": "Camino Shell Print Cotton Poplin Wrap Dress",
+   "brand": "Max Mara"
+  },
+  "8843301": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Tabata Long Sleeve Cotton Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8843302": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 0,
+    "Small": 0,
+    "X-Small": 0,
+    "X-Large": 0,
+    "Medium": 1
+   },
+   "name": "Fervore Linen Sweater",
+   "brand": "Max Mara"
+  },
+  "8843308": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 1,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Teresa Print Cotton Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843309": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 0,
+    "X-Small": 0,
+    "Small": 1,
+    "X-Large": 0,
+    "Large": 0
+   },
+   "name": "Beachwear Ruched Jersey Wrap Skirt",
+   "brand": "Max Mara"
+  },
+  "8843310": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 1,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Nordica Broken Stripe Silk Twill Top",
+   "brand": "Max Mara"
+  },
+  "8843312": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 1,
+    "2": 1,
+    "4": 5,
+    "6": 5,
+    "8": 8,
+    "10": 5,
+    "12": 2,
+    "14": 3,
+    "16": 1
+   },
+   "name": "Ottelia Long Sleeve Maxi Shirtdress",
+   "brand": "Max Mara"
+  },
+  "8843314": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 1,
+    "Medium": 3,
+    "Large": 0,
+    "X-Large": 1,
+    "Small": 0
+   },
+   "name": "Bchorigano Beachwear Geo Print Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8843315": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 0,
+    "12": 0,
+    "14": 0,
+    "16": 1
+   },
+   "name": "Alamaro Wide Leg Jumpsuit",
+   "brand": "Max Mara"
+  },
+  "8843316": {
+   "ts": "2026-11-02T06:01:18.114Z",
+   "sizes": {
+    "X-Small": 0,
+    "Small": 1,
+    "Large": 0,
+    "Medium": 0,
+    "X-Large": 0
+   },
+   "name": "Grazia Fringe Sweater Dress",
+   "brand": "Max Mara"
+  },
+  "8843317": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 2,
+    "8": 2,
+    "10": 1,
+    "12": 3,
+    "14": 1,
+    "16": 0
+   },
+   "name": "Ballo Pinstripe Double Breasted Linen Vest",
+   "brand": "Max Mara"
+  },
+  "8843318": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 1,
+    "14": 0,
+    "16": 0
+   },
+   "name": "Cresta Pinstripe Linen Twill Wide Leg Crop Pants",
+   "brand": "Max Mara"
+  },
+  "8843358": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 0,
+    "X-Small": 0,
+    "Large": 1,
+    "Small": 1,
+    "X-Large": 1
+   },
+   "name": "Hybrid Linen Cable Sweater",
+   "brand": "Max Mara"
+  },
+  "8843360": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 4,
+    "Medium": 3,
+    "Small": 7,
+    "X-Large": 4,
+    "Large": 6
+   },
+   "name": "Ghiro Variegated Rib Tank",
+   "brand": "Max Mara"
+  },
+  "8843410": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Large": 0,
+    "X-Small": 0,
+    "Small": 0,
+    "Large": 0,
+    "Medium": 1
+   },
+   "name": "Stilla High Waist Bikini Bottoms",
+   "brand": "Max Mara"
+  },
+  "8843411": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Medium": 0,
+    "X-Small": 2,
+    "Small": 0,
+    "X-Large": 0,
+    "Large": 2
+   },
+   "name": "Beachwear Jersey Halter Bikini Top",
+   "brand": "Max Mara"
+  },
+  "8843413": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 1,
+    "X-Large": 0,
+    "Medium": 0,
+    "X-Small": 1,
+    "Large": 0
+   },
+   "name": "Arena Beachwear Print Bikini Top",
+   "brand": "Max Mara"
+  },
+  "8843414": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "Large": 0,
+    "X-Large": 0,
+    "Medium": 0,
+    "Small": 3
+   },
+   "name": "Bandeau Bikini Top",
+   "brand": "Max Mara"
+  },
+  "8843416": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "X-Small": 1,
+    "Medium": 0,
+    "X-Large": 0,
+    "Large": 0
+   },
+   "name": "Avena Beachwear Print Halter Bikini Top",
+   "brand": "Max Mara"
+  },
+  "8843417": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "Medium": 3,
+    "X-Small": 2,
+    "X-Large": 0,
+    "Large": 1
+   },
+   "name": "Cappa Beachwear One-Shoulder One-Piece Swimsuit",
+   "brand": "Max Mara"
+  },
+  "8843418": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 1,
+    "X-Large": 0,
+    "Large": 0,
+    "X-Small": 0,
+    "Medium": 1
+   },
+   "name": "Sibilla Beachwear Ruched Bikini Bottoms",
+   "brand": "Max Mara"
+  },
+  "8843420": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "X-Small": 1,
+    "Medium": 0,
+    "Large": 0,
+    "X-Large": 0
+   },
+   "name": "Canarie Beachwear Ruched Cutout One-Shoulder One-Piece Swimsuit",
+   "brand": "Max Mara"
+  },
+  "8843421": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "Small": 1,
+    "Medium": 0,
+    "Large": 0,
+    "X-Large": 1
+   },
+   "name": "Stilla Print Bikini Bottoms",
+   "brand": "Max Mara"
+  },
+  "8843422": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 0,
+    "Small": 1,
+    "Large": 1,
+    "Medium": 3,
+    "X-Large": 0
+   },
+   "name": "Sabina Beachwear High Waist Bikini Bottoms",
+   "brand": "Max Mara"
+  },
+  "8843423": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "Large": 0,
+    "X-Small": 1,
+    "Medium": 0,
+    "X-Large": 0
+   },
+   "name": "Chcarezza Beachwear One-Piece Swimsuit",
+   "brand": "Max Mara"
+  },
+  "8843425": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "X-Small": 1,
+    "Small": 0,
+    "Medium": 3,
+    "X-Large": 0,
+    "Large": 0
+   },
+   "name": "Argenta Beachwear One-Shoulder Bikini Top",
+   "brand": "Max Mara"
+  },
+  "8993835": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Large": 0,
+    "X-Small": 1,
+    "Medium": 2,
+    "Small": 0,
+    "X-Large": 0
+   },
+   "name": "Geometric Cotton Blend Jacquard Sweater",
+   "brand": "Max Mara"
+  },
+  "8993841": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 0,
+    "10": 1,
+    "12": 0,
+    "14": 0
+   },
+   "name": "Argento Drawstring Trousers",
+   "brand": "Max Mara"
+  },
+  "8993842": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "Small": 0,
+    "Medium": 2,
+    "Large": 2,
+    "X-Small": 0,
+    "X-Large": 0
+   },
+   "name": "Pam Short Sleeve Cardigan",
+   "brand": "Max Mara"
+  },
+  "8993843": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 4,
+    "10": 1,
+    "12": 0,
+    "14": 0
+   },
+   "name": "Aquile Sleeveless Midi Dress",
+   "brand": "Max Mara"
+  },
+  "8993846": {
+   "ts": "2026-11-03T19:31:04.767Z",
+   "sizes": {
+    "0": 0,
+    "2": 0,
+    "4": 0,
+    "6": 0,
+    "8": 2,
+    "10": 0,
+    "12": 0,
+    "14": 0
+   },
+   "name": "Cotton & Linen Drill Twill Straight Leg Trousers",
+   "brand": "Max Mara"
+  },
+  "9316554": {
+   "ts": "2026-11-02T06:01:18.114Z",
+   "sizes": {
+    "35": 0,
+    "36": 0,
+    "37": 0,
+    "38": 0,
+    "39": 1,
+    "40": 0,
+    "41": 0,
+    "42": 0
+   },
+   "name": "Original Achilles Sneaker",
+   "brand": "Common Projects"
+  }
+ }
+}
