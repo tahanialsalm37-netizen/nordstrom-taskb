@@ -1,65 +1,40 @@
 {
- "ts": "2026-11-02T18:22:44.441Z",
- "durationSec": 22,
+ "ts": "2026-11-03T02:19:04.385Z",
+ "durationSec": 24,
  "pages": 2,
  "totalHint": 124,
  "count": 123,
  "missed": 1,
- "newCount": 3,
+ "newCount": 2,
  "dropCount": 0,
- "lowStockCount": 1,
- "goneCount": 3,
+ "lowStockCount": 0,
+ "goneCount": 2,
  "newItems": [
   {
-   "id": "8622747",
-   "url": "https://www.nordstrom.com/s/albero-virgin-wool-rib-polo-sweater/8622747",
-   "img": "https://n.nordstrommedia.com/it/4cabfbce-0a06-451c-a09c-ef57c40ace18.jpeg?h=368&w=240&dpr=2",
+   "id": "8843301",
+   "url": "https://www.nordstrom.com/s/tabata-long-sleeve-cotton-shirtdress/8843301",
+   "img": "https://n.nordstrommedia.com/it/d4db80c2-cc60-4c64-865a-a95726a0622c.jpeg?h=368&w=240&dpr=2",
    "brand": "Max Mara",
-   "name": "Albero Virgin Wool Rib Polo Sweater",
-   "price": 312.5,
-   "prevPrice": 625,
+   "name": "Tabata Long Sleeve Cotton Shirtdress",
+   "price": 382.5,
+   "prevPrice": 765,
    "discount": 50,
    "newMarkdown": false,
    "lowStock": true
   },
   {
-   "id": "8843269",
-   "url": "https://www.nordstrom.com/s/badia-double-breasted-double-face-jersey-blazer/8843269",
-   "img": "https://n.nordstrommedia.com/it/3116e1ca-4734-40b5-8f6d-9380160e7d3d.jpeg?h=368&w=240&dpr=2",
+   "id": "8843282",
+   "url": "https://www.nordstrom.com/s/saggina-double-face-jersey-polo-dress/8843282",
+   "img": "https://n.nordstrommedia.com/it/3be79347-3f01-4717-babb-6c880301e612.jpeg?h=368&w=240&dpr=2",
    "brand": "Max Mara",
-   "name": "Badia Double Breasted Double Face Jersey Blazer",
-   "price": 347.5,
-   "prevPrice": 695,
-   "discount": 50,
-   "newMarkdown": false,
-   "lowStock": true
-  },
-  {
-   "id": "8622784",
-   "url": "https://www.nordstrom.com/s/tedgirl-oversize-double-breasted-alpaca-blend-coat/8622784",
-   "img": "https://n.nordstrommedia.com/it/acdc37d1-8bce-463a-9d63-e930fa9b2f65.jpeg?h=368&w=240&dpr=2",
-   "brand": "Max Mara",
-   "name": "Tedgirl Oversize Double Breasted Alpaca Blend Coat",
-   "price": 2230,
-   "prevPrice": 4460,
+   "name": "Saggina Double Face Jersey Polo Dress",
+   "price": 297.5,
+   "prevPrice": 595,
    "discount": 50,
    "newMarkdown": false,
    "lowStock": true
   }
  ],
  "drops": [],
- "lowStockNew": [
-  {
-   "id": "8843280",
-   "url": "https://www.nordstrom.com/s/bambola-cotton-blend-twill-trench-jacket/8843280",
-   "img": "https://n.nordstrommedia.com/it/7e3abf6d-3f7f-4724-a6c9-d6f91de9f8e3.jpeg?h=368&w=240&dpr=2",
-   "brand": "Max Mara",
-   "name": "Bambola Cotton Blend Twill Trench Jacket",
-   "price": 525,
-   "prevPrice": 1050,
-   "discount": 50,
-   "newMarkdown": false,
-   "lowStock": true
-  }
- ]
+ "lowStockNew": []
 }

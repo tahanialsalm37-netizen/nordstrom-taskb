@@ -24,7 +24,7 @@
   "value": "preferredcountry=US&preferredcurrency=USD&preferredcountryname=United%20States",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204137.904871,
+  "expires": 1828232710.338485,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -34,7 +34,7 @@
   "value": "ccpa=false",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204137.905955,
+  "expires": 1828232710.340882,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -44,7 +44,7 @@
   "value": "bagcount=0&firstname=&ispinned=False&isSocial=False&shopperattr=||0|False|-1&shopperid=3c0dc06570c7417ea2498e7e0d99a659&USERNAME=",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204138.376358,
+  "expires": 1828232710.862934,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -54,7 +54,7 @@
   "value": "firstVisit=2026-10-21T19%3A12%3A32.605Z&geoLocation=&isModified=false&lme=false",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204137.90619,
+  "expires": 1828232710.341399,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -74,7 +74,7 @@
   "value": "null",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1796236137,
+  "expires": 1796264710,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
@@ -84,7 +84,7 @@
   "value": "version=5&postalCode=90011&selectedStoreIds=349&sddSelectedStoreIds=345&storesById=349%3ANordstrom%20The%20Grove&localMarketId=LA&localMarketsById=LA%3Aundefined",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204138.190911,
+  "expires": 1828232710.735234,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -94,7 +94,7 @@
   "value": "GA1.1.1446042011.1792609959",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1828204138.905932,
+  "expires": 1828232711.41822,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
@@ -144,7 +144,7 @@
   "value": "1",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1827340137,
+  "expires": 1827368712,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -154,7 +154,7 @@
   "value": "01M5FY2FSGKFJW64CPSD3G981F_.tt.1.1792609959729",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1827340137,
+  "expires": 1827368712,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -164,7 +164,7 @@
   "value": "fb.1.1792609959825.659054102654554044",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1801420139,
+  "expires": 1801448713,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -174,7 +174,7 @@
   "value": "FPID2.2.WAYk%2FRBToww%2Bcu9LFXfddQBOq9wMl57qVUE3OU0EOh4%3D.1792609959",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1828204139.210993,
+  "expires": 1828232715.3319,
   "httpOnly": true,
   "secure": true,
   "sameSite": "Lax"
@@ -184,7 +184,7 @@
   "value": "1.1.1306182586.1792609957",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1800385957.211111,
+  "expires": 1800385956.860132,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -194,7 +194,7 @@
   "value": "083bcb6ad7cf41c3b0f6a15fe13b339f",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1827340139.376015,
+  "expires": 1827368715.331997,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -204,7 +204,7 @@
   "value": "dWlkPVpEbG1ObVk1WkdVdFpUTmtNQzAwTkdZd0xUZ3lNVE10TWpZeE1EbG1OamsyWm1RMw",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1825180137,
+  "expires": 1825208712,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -214,7 +214,7 @@
   "value": "88f3e16fcfacbea3e45943892af01cb0",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1825180137,
+  "expires": 1825208710,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
@@ -230,61 +230,11 @@
   "sameSite": "None"
  },
  {
-  "name": "FPLC",
-  "value": "BEpT621f7nbAu2YN0rSaJ9crfvtp5PQJjCSYy7obPycH%2BmRQigki6%2FaP2FGgBoZstbAWrak%2Foksj8FOpw7h7zRILF65AnoG3K4HigWda%2F0UiinkK9vfPTFDJnCZkhw%3D%3D",
+  "name": "Tld-kampyleSessionPageCounter",
+  "value": "1",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1793671281.667509,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "rfx-forex-rate",
-  "value": "currencyCode=USD&exchangeRate=1&quoteId=0",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793647369.063802,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "storeeligiblepromise",
-  "value": "eligiblePromises=SHIP_TO_STORE%7CNEXT_DAY_DELIVERY%7CSAME_DAY_PICKUP%7CSAME_DAY_COURIER",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793647738,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "QuantumMetricSessionID",
-  "value": "5546131804b64a8392ccbfb40b1b065f",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793645937,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "__ps_sr",
-  "value": "_",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793645938,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "__ps_slu",
-  "value": "https://www.nordstrom.com/s/soft-penny-loafer-women/8560523",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793645938,
+  "expires": 1825180130,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
@@ -320,101 +270,81 @@
   "sameSite": "None"
  },
  {
-  "name": "Tld-kampyleSessionPageCounter",
-  "value": "1",
+  "name": "rfx-forex-rate",
+  "value": "currencyCode=USD&exchangeRate=1&quoteId=0",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793675946.003832,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "storeeligiblepromise",
+  "value": "eligiblePromises=SHIP_TO_STORE%7CNEXT_DAY_DELIVERY%7CSAME_DAY_PICKUP%7CSAME_DAY_COURIER",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793676310,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "QuantumMetricSessionID",
+  "value": "4234010de7e64d83b82cdfabe41c0a7d",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1825180130,
+  "expires": 1793674512,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
  },
  {
-  "name": "Bd34bsY56",
-  "value": "AwyChZ2hAQAAilH1HeXgGmjDylcALI9hJ4zULeaaggk5tSRu1TR9p2ox8c-CAazrNFGucuopwH8AAEB3AAAAAA==",
-  "domain": "www.nordstrom.com",
+  "name": "__ps_sr",
+  "value": "_",
+  "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1825201087.35603,
+  "expires": 1793674511,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "__ps_slu",
+  "value": "https://www.nordstrom.com/s/baffo-diamond-stitch-cashmere-crewneck-sweater/8622754",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793674511,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "FPLC",
+  "value": "h%2BM3eTVxn9RH9U9Dks4L5Up%2F3AwX%2FuUBGqtT68gRq16AZpwXQtR%2BYb4l1q1cCnhyCT6W3vnEDbH4C20plxVsRx8jSlpe6EE0h15OIVIObIo3qC7VkVKK6%2B4CVAO1OQ%3D%3D",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1793744350.650093,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
  },
  {
-  "name": "apt_pixel",
-  "value": "eyJkZXZpY2VJZCI6IjI0ZjQ0NTg3LTg0ODMtNDdkZS05NTg2LTkzMTgyZTY2NzE1OSIsInVzZXJJZCI6IiIsImV2ZW50SWQiOjE4ODMsImxhc3RFdmVudFRpbWUiOjE3OTM2NDQxMzcxNzV9",
+  "name": "Bd34bsY56",
+  "value": "A5q-OJ-hAQAASjLicuCUJB6NpJT1tSIWywZzXOtn4aRQX6sDw5p33LF6K7oCAazrNFGucuopwH8AAEB3AAAAAA==",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1825180137,
+  "expires": 1825229610.985907,
   "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "ttcsid",
-  "value": "1793643772191::k2s8WkVtKKludFTPDJyi.23.1793644137383.0::1.362186.364972::0.0.0.0::0.0.0",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1827340137,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "ttcsid_C4A46SJV29O9OKB2G7A0",
-  "value": "1793643772190::VtuWqjxCXdXMq2WapbDs.23.1793644137383.1",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1827340137,
-  "httpOnly": false,
-  "secure": false,
+  "secure": true,
   "sameSite": "Lax"
  },
  {
   "name": "shoppertoken",
-  "value": "shopperToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5vcmRzdHJvbS1ndWVzdC1hdXRoIn0.eyJzdWIiOiIzYzBkYzA2NTcwYzc0MTdlYTI0OThlN2UwZDk5YTY1OSIsImF1ZCI6Imd1ZXN0IiwiaXNzIjoibm9yZHN0cm9tLWd1ZXN0LWF1dGgiLCJleHAiOjIxMDkyNjMzMzcsInJlZnJlc2giOjE3OTM2NTg1MzcsImp0aSI6ImQwNTQyOTAzLTZmYWYtNGJmMy05ZjM1LTljMDA5NTliZmU3OCIsImlhdCI6MTc5MzY0NDEzN30.PrvKCHttezomkGsffb4VVLaIgF5ajuJbliAJJvyF7x9z6Hs-Ca_t_eyEuaV8g_bLe4h_fl0RBLx5YKdR8xZpLTIMlh1C27zSjsNWOo2p04g3NsyUag0wXFwnKISEWZ9mxWRyWMcZIJa-hlAUZnvLAHlJlBwPBItU13mI8akptuvxHBXvzTDSLMDszZgFN5gbVgSVHBGqd9wDpVj6m_-MLC8r8wWjPSRm0K5FLVdMa1ZzW6TutONjtSGNnkG5KOP7r67KIT5dNFUsf9aho5zo9uzxB10qy0YzJwvaNovV9dDvUumfMP69OKMll7ZtGE4DM9AYSlTJ8hb09oFoZZJRvQ3GuRe1zu2gEO1tqC3-p6sm4_kDM5JIE5Tk6IImbSDI-Bd79PLdpUeE7fOuLuVVRqZ2Im5jxMdoRW0u4EvoNMpp58WH5YZbPbnKQ3_6jBztdqYOB_ta7qEsXz9DZ2IE15J-JerIcHtyLgmAKclqhDsLjMg_qnC-hvm9wokskDLg19WLWPXoGnb1CCBYVKijsxH2OT_qimRpNTBEqXmzpVkB5sLEzHEbG-GFpw6qvkQi3oLTfzzPGG9lbsoSHWqHFEbp6cf7Rf_NUwkNSIP9e-5i2SoyZQxA-VeqGGgs7BcoAFdrG81VYOjlSrfvDWdeU38fXFeWeL0cNJca9iawlDU",
+  "value": "shopperToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5vcmRzdHJvbS1ndWVzdC1hdXRoIn0.eyJzdWIiOiIzYzBkYzA2NTcwYzc0MTdlYTI0OThlN2UwZDk5YTY1OSIsImF1ZCI6Imd1ZXN0IiwiaXNzIjoibm9yZHN0cm9tLWd1ZXN0LWF1dGgiLCJleHAiOjIxMDkyOTE5MDksInJlZnJlc2giOjE3OTM2ODcxMDksImp0aSI6IjhiZTlmMDI5LWYxNTAtNDg4Zi1hYzRkLTMxOTc5ODAzYjg0MSIsImlhdCI6MTc5MzY3MjcwOX0.JgOPCvZO5vw8tk5U4KEePC9wwaA7WmJ57FpQzlp49EwXnfAzJjAd0Kzy6TNOb1O74UYzAKuSu1Oosic9vIY9OHvf5-_ls-tpFqT8b-Me1Z9NC8PlJTIT7K3rhCOq3re2r2FnAJyFmaDcm2rcyZlhgubOWO1e-s2G_WB7D-VZ0inuBJr-vCZMMmADM_GDLx6KzcyQsJgZH4H9AJReIpp7WOgI7i4_lAxzLdab9SQGzYeVtpMkfAp67L8SeJDkZ3rc5MBraLif9G4xt4VcEh0j4vKzo2LqaIbEMw_rZNQXKXyDHAHyGjVHPNV4tJu94P8tY15p1TlNCRlHgW42hOqoOypGSw1gD4TeMZE6PPUgGC3ncyvwc4XoyvLDcZx999hzSZtsGeVvOvHM37BTq_fTFtXXUMRBR1ocmG0zdMJ7helZWD7FB2-ntKNoiWS9TSsVGSlqawsB5gwKyQHwBN11Z5eaZ3JT5StQfWnvlc0mGYM0xHC0RraJ5PCrkWtaXPtOv-jJ8APHPg4GmWROQzQI5dJr6NVWgNmBzzhzdJRi3YYYImREUG6QICyz0xj47YqlV-YJhqkNhA8_8OQjk9aLD0hj1wEEMplE07MIddf25aNadjNblF49StOHV-X8td4TVM4qbubOsSTqTHrT5m-wM2SmTW8NOyqzWOKY7uJyXBQ",
   "domain": "www.nordstrom.com",
   "path": "/",
-  "expires": 1828204137.906636,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "pageviewCount",
-  "value": "123",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793645937,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "storeprefs",
-  "value": "90011|100|||2026-11-02T18:28:58.191Z",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1828204138.191629,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "Ad34bsY56",
-  "value": "p5OjgWqCt0EUJ3YtRjj60qFUmgOTrEaoDl08wv1Pl4B270JKdhMUFErwblwXcyfmPgy6dZFdvFtVMr2yxkvM4lLrsGkvMQO0Jh4h5-YwxSxzYBYN3rnrjRibXdIc3iZVXUllBnk5BpLLTJgoOsPxCRNKMrQ7NiVSKkdRAKoG9mSOPiQVGaKIeHDWfYyt1IDWgenie8-ke2dWKgUyXFaQiBwd89jfSw9Pw5kaVy_T8_0Fl_0RsfSLDoAUa9WNsLK7Uiibhi6jad9SY_inr0FzlGNr9N6sLAgDtoxFjgmDYE20UADa_eR_RrBfQCgvFX6ZtllblRCZMudVxTD2X-_a9H5cneUZEA1GN0gZJmCvIge3bfpd7tyLFW7ddvlcTl42ARygQXpPyI3V4mPfa_-c5iUPt1y433HUBZGibbkT00BR9jJAtC4cbDqesDE68M35fWErCG9Z|2d18cae2400c07a6bdab5a2d5730cdb629e34b04",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1828204138.318397,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "IR_PI",
-  "value": "61dd787f-cd83-11f1-9bfd-abf0aeffe885%7C1793730538948",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1825180138,
+  "expires": 1828232710.342416,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -424,7 +354,7 @@
   "value": "c5d25260d45511f1915009413e012de3",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1793730539,
+  "expires": 1793759110,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -434,39 +364,129 @@
   "value": "62e00d80cd8311f1aae0dbf521b43575",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1827340139,
+  "expires": 1827368710,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
  },
  {
-  "name": "forterToken",
-  "value": "1ddaa8708fe04997be8abb5427591b83_1793644137814__UDF43_32ck_",
+  "name": "pageviewCount",
+  "value": "74",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1828204139,
+  "expires": 1793674510,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "KP_UIDz-ssn",
+  "value": "0Gad25Cxl47MU6ZupLjyDtZBZzGtHl8V9xcruNVPomdPpRZn12mf1h7gebTl6mJyzlrCLQmiZoXiaL6r2MnRoO2GTGqz2OHzW6G7qICKmXphvjWHzyhWT3D6e2oNQeckrBPkgGwhaIo9u2iRc92WG5u1BlrnT9fvRNoz",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793759110.538123,
+  "httpOnly": true,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "KP_UIDz",
+  "value": "0Gad25Cxl47MU6ZupLjyDtZBZzGtHl8V9xcruNVPomdPpRZn12mf1h7gebTl6mJyzlrCLQmiZoXiaL6r2MnRoO2GTGqz2OHzW6G7qICKmXphvjWHzyhWT3D6e2oNQeckrBPkgGwhaIo9u2iRc92WG5u1BlrnT9fvRNoz",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1793759110.538228,
+  "httpOnly": true,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "storeprefs",
+  "value": "90011|100|||2026-11-03T02:25:10.736Z",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1828232710.736136,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "IR_PI",
+  "value": "61dd787f-cd83-11f1-9bfd-abf0aeffe885%7C1793759111507",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1825208711,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "forterToken",
+  "value": "1ddaa8708fe04997be8abb5427591b83_1793672710202__UDF43_32ck_",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828232711,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "apt_pixel",
+  "value": "eyJkZXZpY2VJZCI6IjI0ZjQ0NTg3LTg0ODMtNDdkZS05NTg2LTkzMTgyZTY2NzE1OSIsInVzZXJJZCI6IiIsImV2ZW50SWQiOjIwMjMsImxhc3RFdmVudFRpbWUiOjE3OTM2NzI3MTI3MDZ9",
+  "domain": "www.nordstrom.com",
+  "path": "/",
+  "expires": 1825208712,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "ttcsid",
+  "value": "1793672350412::1SrmoZSeL_IptmK12Xuc.24.1793672713310.0::1.355883.362283::0.0.0.0::0.0.0",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827368713,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "ttcsid_C4A46SJV29O9OKB2G7A0",
+  "value": "1793672350411::qdyRio6u009HeWbIF1Sj.24.1793672713310.1",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1827368713,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
  },
  {
   "name": "_ga_FFQMSLD0QC",
-  "value": "GS2.1.s1793643771$o24$g1$t1793644139$j54$l0$h839583829",
+  "value": "GS2.1.s1793672349$o25$g1$t1793672713$j60$l0$h612307585",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1828204139.28623,
+  "expires": 1828232713.616293,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
  },
  {
   "name": "_ga_11111111",
-  "value": "GS2.1.s1793643771$o24$g1$t1793644139$j58$l0$h722244160",
+  "value": "GS2.1.s1793672349$o25$g1$t1793672713$j58$l0$h303533850",
   "domain": ".nordstrom.com",
   "path": "/",
-  "expires": 1828204139.300578,
+  "expires": 1828232713.670966,
   "httpOnly": false,
   "secure": true,
   "sameSite": "None"
+ },
+ {
+  "name": "Ad34bsY56",
+  "value": "7iZvORKe89ZKqv1S0TlYqSJ9zeWxT6dcBBSO-k80ny9U16kwt6lbwRp02FQn5V8YHz-VQTWbNYXVVIyCE4dih4bo2qn5K0CsvUeenn2Sa-Ein8xKfrrN7Hs-67LIX_OT2j6kEqCRocjALBaZVOdq1vc993907-BI8PZU6AwZgLoyVfsWFSdVvaw3uPcKQQpYYnhK3zwBDw9KdP6VoIzV85Ev60Kr6T4Q5XkOR5NOHPt57jmK6L0N7sQlQcrq8vQyHNPqa4odYAzUAjSu5o8Wy_BahRTMBJQshak18-qgFIm-tQMd5EFvonq2dDnzUp_7oToUdhHAkxvY0oh5O4kDLWCU5oa2un1dlTyhG8F_y5SmPtJRk33LwpMMBGOjfrJFOS3QRHluloJ1IvkHQdZmQcWeM4Wg5z3OUla7THEtofSSb5jA0egso7S0bOdP2KdDFlD-1YDy|6195f04630b6e3a530906ddf7504a6884f31b214",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828232714.680534,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
  }
 ]
