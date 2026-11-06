@@ -270,66 +270,6 @@
   "sameSite": "None"
  },
  {
-  "name": "rfx-forex-rate",
-  "value": "currencyCode=USD&exchangeRate=1&quoteId=0",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793756294.760799,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "QuantumMetricSessionID",
-  "value": "914ee03ac9f340df99f42e01919c2ee6",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793755029,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "storeeligiblepromise",
-  "value": "eligiblePromises=SHIP_TO_STORE%7CNEXT_DAY_DELIVERY%7CSAME_DAY_PICKUP%7CSAME_DAY_COURIER",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793756827,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "__ps_sr",
-  "value": "_",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793755029,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "__ps_slu",
-  "value": "https://www.nordstrom.com/s/okra-crop-stretch-cotton-straight-leg-pants/8843294",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793755029,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "FPLC",
-  "value": "we%2F6IZaWrihZBn8dAfLDs%2BvcBzm4Eipsxby8Aaz583enZmzFo4JOnsf1OQI%2BZJLvpI%2B5vqAsogkeHIWmXHvAab0W%2BBoq9%2BOVQkkb7Fdiqbh9MxwEa1WFZJKTgTW5ng%3D%3D",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793824716.248669,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
   "name": "Bd34bsY56",
   "value": "AyHUBaShAQAA1XhWCiXgqgjuTB7ZtWAbPbOmk1MadcbX83k6XVi5RA8m-HceAazs7biucuopwH8AAEB3AAAAAA==",
   "domain": "www.nordstrom.com",
@@ -380,26 +320,6 @@
   "sameSite": "Lax"
  },
  {
-  "name": "pageviewCount",
-  "value": "97",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793755027,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
-  "name": "_uetsid",
-  "value": "c5d25260d45511f1915009413e012de3",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1793839627,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
   "name": "_uetvid",
   "value": "62e00d80cd8311f1aae0dbf521b43575",
   "domain": ".nordstrom.com",
@@ -410,41 +330,11 @@
   "sameSite": "Lax"
  },
  {
-  "name": "KP_UIDz-ssn",
-  "value": "0DbXGk3XHfjOeXMLdRdAJti4mRh1azJykH63YmoO1yyRUREb7N7tIVT0VpSkRw1fiRwT0VfYZlnqZikdi5AJEzDDTVLLIuno5j0hPPvzPeyg3ZErAk9V4qwPPomKHiwlZZC4P92jMFXBLQm9mkRmDfpacydoMLBn4mAP",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793839627.820769,
-  "httpOnly": true,
-  "secure": true,
-  "sameSite": "None"
- },
- {
-  "name": "KP_UIDz",
-  "value": "0DbXGk3XHfjOeXMLdRdAJti4mRh1azJykH63YmoO1yyRUREb7N7tIVT0VpSkRw1fiRwT0VfYZlnqZikdi5AJEzDDTVLLIuno5j0hPPvzPeyg3ZErAk9V4qwPPomKHiwlZZC4P92jMFXBLQm9mkRmDfpacydoMLBn4mAP",
-  "domain": "www.nordstrom.com",
-  "path": "/",
-  "expires": 1793839627.820908,
-  "httpOnly": true,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
   "name": "storeprefs",
   "value": "90011|100|||2026-11-04T00:47:07.907Z",
   "domain": "www.nordstrom.com",
   "path": "/",
   "expires": 1828313227.907754,
-  "httpOnly": false,
-  "secure": true,
-  "sameSite": "Lax"
- },
- {
-  "name": "Ad34bsY56",
-  "value": "p8T2PMFhWRrcx1FEkbvmEK-3f8yZz5eRUDXMpSTdB6EXhE65iS5jv00l8HLl6c3RDTTh2UICO20cFMuN-bAHRxiS9z4pYH416tPThWRUYh8mrSlmrEDweZl5MmWz5DBaq-o0_UPMtqfTewVpahPAVkR6zCKY17UsDAH6oY-M7XUv6SqugaxD35sU5_KHcAuiD8FA0rCGYLKAc1VRL_O6gzUJj6V2AKH8mGUKtn4ImdYfYtylWLZYx1D7x3z96IniGqJgkrKzjAx0dRavIsNEhGe0Cc9SrXxkAqH5RTNC32qh05xLEMChmDGVjBeFPPxLhnlVVDd5tqiBtQ7iLcOP8ykAD4UdUJ5_eX4I_tHvBbHIoGl3Je3-7HXdUUnj3gC7JdSSO9ZT_DyrtSwIP616H7S7i0IO3zc_pt4wyd1wlxO5ee4r5nB9ufREN-bkMdOr0Ugr1PfcbwM=|086be5a1fa6a548d73d7c5117d4ba4c9cce7933e",
-  "domain": ".nordstrom.com",
-  "path": "/",
-  "expires": 1828313228.140005,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
@@ -485,6 +375,16 @@
   "domain": ".nordstrom.com",
   "path": "/",
   "expires": 1825289229,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "Ad34bsY56",
+  "value": "c_z8Q80YYagGyNu5gU-vPa8fK1hiDn2xgnugpeWXa77065NSAo2-yE_t39wWzCuSt74YHkMeB6yGAHLmTpZfAzWilpbXh5QTNlTg8MYuSEAhLubm9w4WoS0fNo5tLMfQI2uQJalWTQm_ZAd89GKzm_wZ-qSxkGG28TPeP5o0fz0x_rGWUkqGi0EH1lfXQsdcEK0t3fCO1f_UA2SxpY9ethsxK2U9ex7XxKT3mLvjYxK0MxO--rtnGlA3pqBCKH-3mT8nC7KUVTmduefGuPuDaYj_-DOSkiyXlaI9KCzGpkinP4ZEaUkGgKMZo5pAsheH7zbkEpi8697oxxExkdFQIXAKpukpi1Pb1u9XujE3-DtHDscZPhqvE34ys2JCSwDyEm7Nf88uJ9BoztEgqRHYqecJkr44VEBm4oFRg6_zZ_Rc328Gf6DsAVeN4q8bf0RFK2Wv8uSb|8d0c2ed4cb75789676e41423d5a4b042c98c3cf7",
+  "domain": ".nordstrom.com",
+  "path": "/",
+  "expires": 1828507822.953022,
   "httpOnly": false,
   "secure": true,
   "sameSite": "Lax"
